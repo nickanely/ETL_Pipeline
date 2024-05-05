@@ -114,10 +114,10 @@
   * columns:
                 
   
-    molecule_id (lab.silver.molecules.id)
-    molecule_class (lab.silver.molecules.class)
-    molecule_owner (lab.silver.molecules.owner)
-    molecule_molecular_weight (lab.silver.molecules.molecular_weight)
-    molecule_formula (lab.silver.molecules.formula)
-    project_comment (lab.silver.projects.comment)
-    batch_name (lab.silver.batches.name)
+      molecule_id (lab.silver.molecules.id)
+      molecule_class (lab.silver.molecules.class)
+      molecule_owner (lab.silver.molecules.owner)
+      molecule_molecular_weight (lab.silver.molecules.molecular_weight)
+      molecule_formula (lab.silver.molecules.formula)
+      project_comment (lab.silver.projects.comment)
+      batch_name (lab.silver.batches.name)
